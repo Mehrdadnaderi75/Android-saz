@@ -1,0 +1,8 @@
+{
+  "name": "AI Android Forge",
+  "description": "A world-class AI-powered Android application builder that generates, previews, and iterates on mobile apps using Gemini Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
